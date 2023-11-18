@@ -1,0 +1,7 @@
+E:\C# project\pattern problems\bin\Debug\pattern problems.exe.config
+E:\C# project\pattern problems\bin\Debug\pattern problems.exe
+E:\C# project\pattern problems\bin\Debug\pattern problems.pdb
+E:\C# project\pattern problems\obj\Debug\pattern problems.csproj.AssemblyReference.cache
+E:\C# project\pattern problems\obj\Debug\pattern problems.csproj.CoreCompileInputs.cache
+E:\C# project\pattern problems\obj\Debug\pattern problems.exe
+E:\C# project\pattern problems\obj\Debug\pattern problems.pdb
